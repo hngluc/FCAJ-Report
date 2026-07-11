@@ -1,7 +1,7 @@
 ---
 title: "Các events đã tham gia"
-date: 2024-01-01
-weight: 4
+date: 2026-13-06
+weight: 2
 chapter: false
 pre: " <b> 4. </b> "
 ---
@@ -21,7 +21,7 @@ Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là
 
 
 ### [Event 2](4.2-Event2/)
-&emsp;**Tên sự kiện:** Meetup 13 - 06 - 2026
+&emsp;**Tên sự kiện:** "Meetup 13 - 06 - 2026" Workshop
 
 &emsp;**Thời gian:** 09:00 ngày 13/06/2026
 

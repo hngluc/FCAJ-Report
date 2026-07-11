@@ -1,12 +1,12 @@
 ---
 title: "Event 2"
-date: 2026-05-13
-weight: 1
+date: 2026-06-13
+weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Summary of "Meetup Session 13-05-2026"
+# Summary of "Meetup Session 13-06-2026"
 
 ### Purpose of the Event
 
