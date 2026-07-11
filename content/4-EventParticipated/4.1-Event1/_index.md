@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Takeaways from the "AI-Ready Freshers" Workshop
+# Takeaways from the "Meetup 09 - 05 - 2026" Workshop
 
 ### Purpose of the Event
 

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Bài thu hoạch “AI-Ready Freshers,.. Workshop”
+# Bài thu hoạch "Meetup 09 - 05 - 2026" Workshop
 
 ### Mục Đích Của Sự Kiện
 

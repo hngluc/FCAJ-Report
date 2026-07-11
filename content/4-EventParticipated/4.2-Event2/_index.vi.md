@@ -1,12 +1,12 @@
 ---
 title: "Event 2"
-date: 2026-05-13
+date: 2026-06-13
 weight: 1
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Bài thu hoạch “GenAI-powered App-DB Modernization workshop”
+# Bài thu hoạch “Buổi Meetup 13-06-2026”
 
 ### Mục Đích Của Sự Kiện
 
@@ -27,104 +27,59 @@ pre: " <b> 4.2. </b> "
 
 ### Nội Dung Nổi Bật
 
-- Giới thiệu chương trình First Cloud AI Journey 
-- Dự án rút gọn link.
-- Kiến thức về Data Analytics và văn hóa doanh nghiệp (Cogate)
+#### Giới thiệu chương trình First Cloud AI Journey
+- Được anh Hiếu cho Roadmap rõ ràng từng bước trong chương trình.
+- Những hình ảnh được anh Hiếu cho xem về các bước "leo rank" trong chương trình AWS.
+- Và những phần quà khi tham gia nhóm của anh Hiếu.
+
+#### Giới thiệu dự án của hai bạn Kiên Và Thọ
+- Dự án rút gọn link: Được 2 bạn trình bày rất chi tiết về cách thực hiện
+- Nói về kiến trúc và luồng hoạt động của dự án từ người dùng đến database.
+- Tác dụng của việc sử dụng dự án trên.
+
+#### Câu chuyện thực tế đến văn hóa tại tập đoàn đa quốc gia
+- Anh Đạt chia sẻ về công việc Data Analytics Engineer thực tế sẽ làm gì trong doanh nghiệp. Những kỹ năng cần thiết khi làm Data Analytics Engineer.
+- Anh Cường chia sẻ về văn hóa tại tập đoàn đa quốc gia, nói về quy trình tuyển dụng đến trăn trở lâu dài của một doanh nghiệp.
+
+#### DevOps thực sự làm gì? Tại sai lại chọn DevOps Engineer?
+- Nói về định nghĩa DevOps và vai trò của DevOps Engineer.
 - Hành trình DevOps như thế nào? Chọn DevOps các bạn sẽ học những gì?
+- Học các kiến thức gì khi trở thành DevOps Engineer?
+- Những công cụ DevOps.
+- Anh Trọng giới thiệu lộ trình học gì đầu tiền ở thời điểm hiện tại.
 
-#### Đưa ra các ảnh hưởng tiêu cực của kiến trúc ứng dụng cũ
-
-- Thời gian release sản phẩm lâu → Mất doanh thu/bỏ lỡ cơ hội
-- Hoạt động kém hiệu quả → Mất năng suất, tốn kém chi phí
-- Không tuân thủ các quy định về bảo mật → Mất an ninh, uy tín
-
-#### Chuyển đổi sang kiến trúc ứng dụng mới - Microservice Architecture
-
-Chuyển đổi thành hệ thống modular – từng chức năng là một **dịch vụ độc lập** giao tiếp với nhau qua **sự kiện** với 3 trụ cột cốt lõi:
-
-- **Queue Management**: Xử lý tác vụ bất đồng bộ
-- **Caching Strategy:** Tối ưu performance
-- **Message Handling:** Giao tiếp linh hoạt giữa services
-
-#### Domain-Driven Design (DDD)
-
-- **Phương pháp 4 bước**: Xác định domain events → sắp xếp timeline → identify actors → xác định bounded contexts
-- **Case study bookstore**: Minh họa cách áp dụng DDD thực tế
-- **Context mapping**: 7 patterns tích hợp bounded contexts
-
-#### Event-Driven Architecture
-
-- **3 patterns tích hợp**: Publish/Subscribe, Point-to-point, Streaming
-- **Lợi ích**: Loose coupling, scalability, resilience
-- **So sánh sync vs async**: Hiểu rõ trade-offs (sự đánh đổi)
-
-#### Compute Evolution
-
-- **Shared Responsibility Model**: Từ EC2 → ECS → Fargate → Lambda
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value
-- **Functions vs Containers**: Criteria lựa chọn phù hợp
-
-#### Amazon Q Developer
-
-- **SDLC automation**: Từ planning đến maintenance
-- **Code transformation**: Java upgrade, .NET modernization
-- **AWS Transform agents**: VMware, Mainframe, .NET migration
 
 ### Những Gì Học Được
-
-#### Tư Duy Thiết Kế
-
-- **Business-first approach**: Luôn bắt đầu từ business domain, không phải technology
-- **Ubiquitous language**: Importance của common vocabulary giữa business và tech teams
-- **Bounded contexts**: Cách identify và manage complexity trong large systems
-
-#### Kiến Trúc Kỹ Thuật
-
-- **Event storming technique**: Phương pháp thực tế để mô hình hóa quy trình kinh doanh
-- Sử dụng **Event-driven communication** thay vì synchronous calls
-- **Integration patterns**: Hiểu khi nào dùng sync, async, pub/sub, streaming
-- **Compute spectrum**: Criteria chọn từ VM → containers → serverless
-
-#### Chiến Lược Hiện Đại Hóa
-
-- **Phased approach**: Không rush, phải có roadmap rõ ràng
-- **7Rs framework**: Nhiều con đường khác nhau tùy thuộc vào đặc điểm của mỗi ứng dụng
-- **ROI measurement**: Cost reduction + business agility
-
-### Ứng Dụng Vào Công Việc
-
-- **Áp dụng DDD** cho project hiện tại: Event storming sessions với business team
-- **Refactor microservices**: Sử dụng bounded contexts để identify service boundaries
-- **Implement event-driven patterns**: Thay thế một số sync calls bằng async messaging
-- **Serverless adoption**: Pilot AWS Lambda cho một số use cases phù hợp
-- **Try Amazon Q Developer**: Integrate vào development workflow để boost productivity
+- Kiến thức rõ hơn về ngành Data Analytics và văn hóa doanh nghiệp
+- Biết được cách để bước chân vào cộng đồng AWS, với tư cách là sinh viên, fresher.
+- Biết cách để có được những phần quà từ AWS.
+- Biết được roadmap để học DevOps và những công cụ DevOps. Thực tế các công việc DevOps Engineer là như thế nào 
 
 ### Trải nghiệm trong event
 
-Tham gia workshop **“GenAI-powered App-DB Modernization”** là một trải nghiệm rất bổ ích, giúp tôi có cái nhìn toàn diện về cách hiện đại hóa ứng dụng và cơ sở dữ liệu bằng các phương pháp và công cụ hiện đại. Một số trải nghiệm nổi bật:
+Tham gia workshop **“Meetup 13-05-2026”** là một trải nghiệm rất bổ ích, giúp em có cái nhìn sâu rộng hơn về DevOps, Data Analytics và văn hóa doanh nghiệp. Một số trải nghiệm nổi bật: Không gian, kiến thức, và giao lưu với các anh chị có kinh nghiệm.
 
 #### Học hỏi từ các diễn giả có chuyên môn cao
-- Các diễn giả đến từ AWS và các tổ chức công nghệ lớn đã chia sẻ **best practices** trong thiết kế ứng dụng hiện đại.
-- Qua các case study thực tế, tôi hiểu rõ hơn cách áp dụng **Domain-Driven Design (DDD)** và **Event-Driven Architecture** vào các project lớn.
-
-#### Trải nghiệm kỹ thuật thực tế
-- Tham gia các phiên trình bày về **event storming** giúp tôi hình dung cách **mô hình hóa quy trình kinh doanh** thành các domain events.
-- Học cách **phân tách microservices** và xác định **bounded contexts** để quản lý sự phức tạp của hệ thống lớn.
-- Hiểu rõ trade-offs giữa **synchronous và asynchronous communication** cũng như các pattern tích hợp như **pub/sub, point-to-point, streaming**.
-
-#### Ứng dụng công cụ hiện đại
-- Trực tiếp tìm hiểu về **Amazon Q Developer**, công cụ AI hỗ trợ SDLC từ lập kế hoạch đến maintenance.
-- Học cách **tự động hóa code transformation** và pilot serverless với **AWS Lambda**, từ đó nâng cao năng suất phát triển.
+- Anh Hiếu đã cho em Roadmap rõ ràng từng bước trong chương trình AWS.
+- Anh Trọng giới thiệu lộ trình học gì đầu tiền ở thời điểm hiện tại.
+- Anh Đạt chia sẻ về công việc Data Analytics Engineer thực tế sẽ làm gì trong doanh nghiệp. Những kỹ năng cần thiết khi làm Data Analytics Engineer.
+- Anh Cường chia sẻ về văn hóa tại tập đoàn đa quốc gia, nói về quy trình tuyển dụng đến trăn trở lâu dài của một doanh nghiệp.
+- Được nghe 2 bạn Kiên và Thọ chia sẻ về dự án Rút gọn link. Cách thức hoạt động, cách xây dựng và vận hành nó như thế nào. 
+- Được nghe các anh chia sẻ về định nghĩa DevOps, vai trò của DevOps Engineer. Hành trình DevOps như thế nào? Chọn DevOps các bạn sẽ học những gì? Học các kiến thức gì khi trở thành DevOps Engineer? Những công cụ DevOps.
 
 #### Kết nối và trao đổi
-- Workshop tạo cơ hội trao đổi trực tiếp với các chuyên gia, đồng nghiệp và team business, giúp **nâng cao ngôn ngữ chung (ubiquitous language)** giữa business và tech.
+- Được trao đổi trực tiếp với các chuyên gia, đồng nghiệp và team business, giúp **nâng cao ngôn ngữ chung (ubiquitous language)** giữa business và tech.
 - Qua các ví dụ thực tế, tôi nhận ra tầm quan trọng của **business-first approach**, luôn bắt đầu từ nhu cầu kinh doanh thay vì chỉ tập trung vào công nghệ.
 
 #### Bài học rút ra
-- Việc áp dụng DDD và event-driven patterns giúp giảm **coupling**, tăng **scalability** và **resilience** cho hệ thống.
-- Chiến lược hiện đại hóa cần **phased approach** và đo lường **ROI**, không nên vội vàng chuyển đổi toàn bộ hệ thống.
-- Các công cụ AI như Amazon Q Developer có thể **boost productivity** nếu được tích hợp vào workflow phát triển hiện tại.
+- Biết được roadmap để học DevOps và những công cụ DevOps. Thực tế các công việc DevOps Engineer là như thế nào 
+- Kiến thức rõ hơn về ngành Data Analytics và văn hóa doanh nghiệp
+- Biết được cách để bước chân vào cộng đồng AWS, với tư cách là sinh viên, fresher.
+- Biết cách để có được những phần quà từ AWS.
 
 #### Một số hình ảnh khi tham gia sự kiện
-* Thêm các hình ảnh của các bạn tại đây
+![Event photos](/images/4-Event/img4.jpg)
+![Event photos](/images/4-Event/img5.jpg)
+![Event photos](/images/4-Event/img6.jpg)
+![Event photos](/images/4-Event/img7.jpg)
 > Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp tôi thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.
