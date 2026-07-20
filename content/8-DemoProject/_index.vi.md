@@ -39,3 +39,5 @@ Trong quá trình thực tập, em đã xây dựng một dự án demo để á
 &emsp;**Trạng thái:** Hoàn thành
 
 &emsp;**Thành tựu chính:** Ứng dụng serverless end-to-end với tích hợp AI
+
+&emsp;**Link sản phẩm:** https://www.minphstudio.com/

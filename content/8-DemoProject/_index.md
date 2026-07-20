@@ -49,3 +49,5 @@ During the internship, I built a demo project to apply the knowledge and skills 
 &emsp;**Status:** Completed
 
 &emsp;**Key Achievement:** End-to-end serverless application with AI integration
+
+&emsp;**Product Link:** https://www.minphstudio.com/

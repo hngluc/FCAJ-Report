@@ -10,18 +10,18 @@ pre: " <b> 8.4. </b> "
 
 ### Project Results
 
-#### ✅ Completed Features
+#### Completed Features
 
 | Feature | Status | Description |
 |---------|--------|-------------|
-| User Authentication | ✅ Done | Sign up, login, email verification via Cognito |
-| Image Upload | ✅ Done | Pre-signed URL upload to S3 with drag-and-drop UI |
-| Image Processing | ✅ Done | Auto-resize and thumbnail generation via Lambda |
-| AI Classification | ✅ Done | Label detection using Amazon Rekognition |
-| Image Gallery | ✅ Done | Dashboard with thumbnails and search/filter |
-| Responsive UI | ✅ Done | Mobile-friendly React frontend on Amplify |
+| User Authentication | Done | Sign up, login, email verification via Cognito |
+| Image Upload | Done | Pre-signed URL upload to S3 with drag-and-drop UI |
+| Image Processing | Done | Auto-resize and thumbnail generation via Lambda |
+| AI Classification | Done | Label detection using Amazon Rekognition |
+| Image Gallery | Done | Dashboard with thumbnails and search/filter |
+| Responsive UI | Done | Mobile-friendly React frontend on Amplify |
 
-#### 📊 Performance Metrics
+#### Performance Metrics
 
 | Metric | Value |
 |--------|-------|
