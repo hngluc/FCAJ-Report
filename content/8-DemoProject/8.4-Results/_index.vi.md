@@ -10,7 +10,7 @@ pre: " <b> 8.4. </b> "
 
 ### Kết quả dự án
 
-#### ✅ Các tính năng đã hoàn thành
+#### Các tính năng đã hoàn thành
 
 | Tính năng | Trạng thái | Mô tả |
 |-----------|-----------|-------|
@@ -21,7 +21,7 @@ pre: " <b> 8.4. </b> "
 | Thư viện ảnh | ✅ Xong | Dashboard với thumbnails và tìm kiếm/lọc |
 | Giao diện Responsive | ✅ Xong | Frontend React thân thiện di động trên Amplify |
 
-#### 📊 Chỉ số hiệu suất
+#### Chỉ số hiệu suất
 
 | Chỉ số | Giá trị |
 |--------|---------|
